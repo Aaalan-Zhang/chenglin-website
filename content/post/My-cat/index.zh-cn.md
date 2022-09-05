@@ -2,7 +2,7 @@
 title: My Cat
 description: "\"The battle of the family status.\""
 date: 2022-07-01
-slug: my-cat
+slug: my-cp
 image: IMG_9538.jpg
 categories:
     - Personal Life
