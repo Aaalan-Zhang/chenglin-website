@@ -213,7 +213,7 @@ menu:
 
         - identifier: twitter
           name: Twitter
-          url: https://twitter.com
+          url: https://chenglinzhang.com/resume.pdf
           params:
               icon: brand-twitter
         - identifier: linkedin
